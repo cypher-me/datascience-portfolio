@@ -6,8 +6,8 @@ Welcome to my Data Science Portfolio! This repository showcases various projects
 
 1. [Overview](#overview)
 2. [Technologies and Tools](#technologies-and-tools)
-3. [Projects](#projects)
-4. [To-Do Projects](#todo-projects)
+3. [To-Do Projects](#todo-projects)
+4. [Projects](#projects)
 5. [How to Explore](#how-to-explore)
 6. [Contact Me](#contact-me)
 
