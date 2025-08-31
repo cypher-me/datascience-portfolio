@@ -29,7 +29,7 @@ This repository serves as a learning and showcase platform where I document my g
 ## Todo Projects
 Beginner Projects
 
--   [ ] Data Cleaning with Pandas
+-   [x] Data Cleaning with Pandas
 -   [ ] Exploratory Data Analysis (EDA)
 -   [ ] SQL Queries for Analytics
 -   [ ] Basic Data Visualization
