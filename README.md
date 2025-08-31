@@ -56,8 +56,8 @@ Advanced Projects
 
 | Project Name                                                          | Description                                                                     | Languages/Tools                     |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
-| [Data Cleaning with Pandas]()                                         | Cleaning and preprocessing messy datasets.                                      | Python, Pandas                      |
-| [SQL Queries for Analytics]()                                         | Writing SQL queries to extract business insights.                               | SQL                                 |
+| [Data Cleaning with Pandas](./pandas-data-cleaning/)                                         | Cleaning and preprocessing messy datasets.                                      | Python, Pandas                      |
+| [SQL Queries for Analytics](./sql-queries-for-analytics)                                         | Writing SQL queries to extract business insights.                               | SQL                                 |
 | [Data Visualization]()                                                | Visualizing trends using Matplotlib and Seaborn.                                | Python, Matplotlib, Seaborn         |
 | [Linear Regression]()                                                 | Building and evaluating a simple regression model.                              | Python, Scikit-learn                |
 | [Clustering Algorithms]()                                             | Implementing K-means and hierarchical clustering.                               | Python, Scikit-learn                |
