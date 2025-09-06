@@ -32,11 +32,11 @@ Beginner Projects
 -   [x] Data Cleaning with Pandas
 -   [ ] Exploratory Data Analysis (EDA)
 -   [ ] SQL Queries for Analytics
--   [ ] Basic Data Visualization
+-   [x] Basic Data Visualization
 
 Intermediate Projects
 
--   [ ] Linear Regression
+-   [x] Linear Regression
 -   [ ] Logistic Regression
 -   [ ] Clustering Algorithms (K-means, Hierarchical)
 -   [ ] Time Series Analysis
