@@ -1,0 +1,2 @@
+docker run --name postgre_sql_analytics -e POSTGRES_PASSWORD=postgres -e POSTGRES_USER=root -e POSTGRES_DB=sql_analytics -p 5432:5432 -v postgres-data:/var/lib/postgresql/data -d postgres:latest
+
